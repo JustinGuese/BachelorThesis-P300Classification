@@ -1,0 +1,3 @@
+[submodule "py.BI.EEG.2012-GIPSA"]
+	path = py.BI.EEG.2012-GIPSA
+	url = https://github.com/plcrodrigues/py.BI.EEG.2012-GIPSA.git
